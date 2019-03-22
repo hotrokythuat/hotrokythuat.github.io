@@ -6,6 +6,7 @@ description: Hướng dẫn sử dụng Windows Media Creation để tạo bộ 
 categories: [installation]
 tags: [installation, windows, tools]
 toc: true
+comments: true
 ---
 
 Windows Media Creation là một công cụ được cung cấp bởi Microsoft, mục đích hỗ trợ người dụng tải và tạo bộ cài đặt Windows 10 một cách dễ dàng và ít thao tác nhất.
