@@ -50,6 +50,8 @@ Các thành phần cần phải có:
 
 ## Các bước thực hiện
 
+### Khởi chạy chương trình
+
 1. Nhấn đúp để chạy chương trình. Chọn **Yes** nếu được hỏi ở hộp thoại **User Account Control**.
 2. Chương trình sẽ chuẩn bị quá trình thực hiện.
 
