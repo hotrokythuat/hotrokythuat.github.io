@@ -5,6 +5,7 @@ description: Cách chạy và ghi nhận thông tin kết quả công cụ Diagn
 tags: [diagnostic, ePSA, desktop, laptop, dell]
 categories: [troubleshooting]
 toc: true
+comments: true
 ---
 
 **Diagnostic** hay **ePSA** là chương trình chạy kiểm tra phần cứng, giúp người dùng có thể tự kiểm tra và ghi nhận tình trạng phần cứng của máy, sau đó có thể yêu cầu dịch vụ bảo hành của Dell tại tổng đài: `1800 54 54 55` (miễn phí, 24/7).
