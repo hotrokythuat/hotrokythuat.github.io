@@ -291,5 +291,6 @@ defaults:
       # author_profile: true
       read_time: true
       comments: true # true
+      toc: true
       share: true
       related: true
