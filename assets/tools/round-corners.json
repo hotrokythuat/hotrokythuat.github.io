@@ -1,0 +1,10 @@
+﻿{
+  "Name": "round-border",
+  "Effects": [
+    {
+      "$type": "ShareX.ImageEffectsLib.RoundedCorners, ShareX.ImageEffectsLib",
+      "CornerRadius": 5,
+      "Enabled": true
+    }
+  ]
+}
