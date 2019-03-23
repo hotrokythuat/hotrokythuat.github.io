@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Kỹ thuật viên"
   avatar           : "/assets/ico/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Kiến thức là chia sẻ."
-  location         : "Penang."
+  bio              : "Hướng dẫn cho mọi người."
+  location         : "The Earth."
   email            :
   links:
     - label: "Email"
