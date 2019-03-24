@@ -137,6 +137,6 @@ Như vậy, bạn đã nắm được cách sử dụng công cụ Windows Media
 
 ## Tham khảo thêm
 
-- Cách tạo bộ cài đặt Windows từ file ISO với Rufus.
+- [Sử dụng công cụ Rufus tạo bộ cài đặt Windows](/installation/rufus/).
 - Cách cài đặt Windows từ USB.
 - UEFI và Legacy, MBR hay GPT.
