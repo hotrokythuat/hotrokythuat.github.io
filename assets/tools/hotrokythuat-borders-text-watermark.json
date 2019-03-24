@@ -1,0 +1,60 @@
+﻿{
+  "Name": "hotrokythuat",
+  "Effects": [
+    {
+      "$type": "ShareX.ImageEffectsLib.DrawBorder, ShareX.ImageEffectsLib",
+      "Type": "Inside",
+      "Size": 5,
+      "Color": "255, 216, 0",
+      "UseGradient": true,
+      "Color2": "128, 128, 128",
+      "GradientType": "Vertical",
+      "Enabled": true
+    },
+    {
+      "$type": "ShareX.ImageEffectsLib.DrawText, ShareX.ImageEffectsLib",
+      "Placement": "BottomRight",
+      "Offset": "6, 6",
+      "AutoHide": true,
+      "Text": "hotrokythuat",
+      "TextFont": "Iosevka, 12pt",
+      "TextColor": "White",
+      "DrawTextShadow": false,
+      "TextShadowColor": "Black",
+      "TextShadowOffset": "-1, -1",
+      "CornerRadius": 2,
+      "Padding": "2, 2, 2, 2",
+      "DrawBorder": false,
+      "BorderColor": "Black",
+      "BorderSize": 1,
+      "DrawBackground": true,
+      "BackgroundColor": "65, 182, 230",
+      "UseGradient": true,
+      "GradientType": "Vertical",
+      "BackgroundColor2": "0, 68, 124",
+      "UseCustomGradient": false,
+      "Gradient": {
+        "Type": "Vertical",
+        "Colors": [
+          {
+            "Color": "68, 120, 194",
+            "Location": 0.0
+          },
+          {
+            "Color": "13, 58, 122",
+            "Location": 50.0
+          },
+          {
+            "Color": "6, 36, 78",
+            "Location": 50.0
+          },
+          {
+            "Color": "23, 89, 174",
+            "Location": 100.0
+          }
+        ]
+      },
+      "Enabled": true
+    }
+  ]
+}
