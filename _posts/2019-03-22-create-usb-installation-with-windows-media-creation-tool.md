@@ -4,7 +4,7 @@ classes: wide
 title: Sử dụng công cụ Windows Media Creation để tải hoặc tạo bộ cài đặt Windows
 description: Hướng dẫn sử dụng Windows Media Creation để tạo bộ cài đặt Windows 10
 categories: [installation]
-tags: [installation, windows, tools]
+tags: [client, installation, windows, tools]
 toc: true
 comments: true
 ---
