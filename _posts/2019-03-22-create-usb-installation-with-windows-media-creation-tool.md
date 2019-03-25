@@ -31,9 +31,8 @@ Các thành phần cần phải có:
 - Máy tính chạy Windows. Chương trình chỉ chạy trên Windows.
 - Kết nối Internet đủ tốt. Quá trình thực hiện, chương trình sẽ tải một dung lượng khá lớn dữ liệu.
 
-### Lưu ý:
-
-- Sao lưu dữ liệu khỏi USB, vì trong quá trình thực hiện, USB sẽ được format (xóa sạch dữ liệu, định dạng lại), điều này có nghĩa mọi dữ liệu sẽ bị xóa và (chắc chắn) không thể khôi phục.
+**Lưu ý**: Sao lưu dữ liệu khỏi USB, vì trong quá trình thực hiện, USB sẽ được format (xóa sạch dữ liệu, định dạng lại), điều này có nghĩa mọi dữ liệu sẽ bị xóa và (chắc chắn) không thể khôi phục.
+{: .notice--danger}
 
 ## Chuẩn bị
 
