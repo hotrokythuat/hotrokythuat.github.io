@@ -4,7 +4,7 @@ classes: wide
 title: Cách khởi động vào chế độ Safe Mode của Windows
 description: Các bước để khởi động vào chế độ Safe Mode của Windows 7, 8, 10
 categories: [troubleshooting]
-tags: [diagnostic, windows]
+tags: [client, diagnostic, windows]
 toc: true
 ---
 
