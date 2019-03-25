@@ -6,4 +6,5 @@ group :jekyll_plugins do
     gem "jekyll-include-cache"
     gem "jekyll-remote-theme"
     gem 'wdm', '>= 0.1.0'
+    gem "jekyll-archives"
 end
