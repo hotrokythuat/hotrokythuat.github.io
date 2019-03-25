@@ -2,7 +2,7 @@
 layout: single
 title: Diagnostic với ePSA - công cụ chuẩn đoán lỗi trên máy tính Dell
 description: Cách chạy và ghi nhận thông tin kết quả công cụ Diagnostic (ePSA)
-tags: [diagnostic, ePSA, desktop, laptop, dell]
+tags: [client, diagnostic, ePSA, desktop, laptop, dell]
 categories: [troubleshooting]
 toc: true
 comments: true

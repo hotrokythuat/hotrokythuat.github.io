@@ -4,7 +4,7 @@ classes: wide
 title: Sửa lỗi cổng headphone 3.5mm không phát âm thanh Windows 10
 description: Sửa lỗi cổng headphone 3.5mm không phát âm thanh Windows 10
 categories: [troubleshooting]
-tags: [installation, windows, drivers, audio, dell]
+tags: [client, installation, windows, drivers, audio, dell]
 toc: true
 comments: true
 ---
