@@ -6,3 +6,9 @@ main:
     url: /search/
   - title: "Client"
     url: /tags/client/
+  - title: "Server"
+    url: /tags/server/
+  - title: "Storage"
+    url: /tags/storage/
+  - title: "Networking"
+    url: /tags/network/
