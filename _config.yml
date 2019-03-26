@@ -87,7 +87,7 @@ twitter:
 facebook:
   username               :
   app_id                 :
-  publisher              : "642490112846332"
+  publisher              : 642490112846332
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
