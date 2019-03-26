@@ -68,3 +68,6 @@ Hướng dẫn sử dụng giao diện WebUI để thực hiện các bước l�
 
 Bài viết đã hướng dẫn các bước thực hiện để lấy log TSR trên iDRAC8. Hi vọng nội dung hữu ích với bạn!
 
+## Tham khảo thêm
+
+- [Cách lấy TSR log trên iDRAC9 trong WebUI](/troubleshooting/tsr-collection-idrac9-webui/)
